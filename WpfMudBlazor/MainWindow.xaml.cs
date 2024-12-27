@@ -1,3 +1,5 @@
+using Microsoft.Extensions.DependencyInjection;
+using MudBlazor.Services;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -8,8 +10,6 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Microsoft.Extensions.DependencyInjection;
-using MudBlazor.Services;
 
 namespace WpfMudBlazor
 {

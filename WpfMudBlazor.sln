@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMudBlazor", "WpfMudBlazor\WpfMudBlazor.csproj", "{244C49AE-965F-4DBA-942C-1378BCF6F8A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMudBlazor.Pages", "WpfMudBlazor.Pages\WpfMudBlazor.Pages.csproj", "{8CB566E4-59C4-476B-B5FC-DD63C09F594B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244C49AE-965F-4DBA-942C-1378BCF6F8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244C49AE-965F-4DBA-942C-1378BCF6F8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244C49AE-965F-4DBA-942C-1378BCF6F8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244C49AE-965F-4DBA-942C-1378BCF6F8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB566E4-59C4-476B-B5FC-DD63C09F594B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB566E4-59C4-476B-B5FC-DD63C09F594B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB566E4-59C4-476B-B5FC-DD63C09F594B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB566E4-59C4-476B-B5FC-DD63C09F594B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8F0591-E597-4180-B775-F661FE86ECEC}
+	EndGlobalSection
+EndGlobal
